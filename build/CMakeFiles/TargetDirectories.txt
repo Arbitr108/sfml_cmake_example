@@ -1,0 +1,4 @@
+/home/apl/code/cxx/sfml_cmake_example/build/CMakeFiles/rebuild_cache.dir
+/home/apl/code/cxx/sfml_cmake_example/build/CMakeFiles/edit_cache.dir
+/home/apl/code/cxx/sfml_cmake_example/build/CMakeFiles/SFML_CMake_Example.dir
+/home/apl/code/cxx/sfml_cmake_example/build/CMakeFiles/Foo.dir

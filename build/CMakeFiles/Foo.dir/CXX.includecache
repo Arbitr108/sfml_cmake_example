@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/apl/code/cxx/sfml_cmake_example/include/Foo.hpp
+string
+-
+
+/home/apl/code/cxx/sfml_cmake_example/src/Foo.cpp
+../include/Foo.hpp
+/home/apl/code/cxx/sfml_cmake_example/include/Foo.hpp
+
